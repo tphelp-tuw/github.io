@@ -1,0 +1,55 @@
+{
+  "semesters": [
+    {
+      "number": 1,
+      "title": "1. Semester",
+      "courses": [
+        {
+          "id": "analysis-1",
+          "name": "Analysis 1",
+          "shortDescription": "Notes, exercises and exam preparation.",
+          "lecturer": "Prof. Example",
+          "term": "Winter semester 2022",
+          "courseNumber": "123.456",
+          "language": "German",
+          "description": "Personal elaborations created while attending this course.",
+          "documents": [
+            {
+              "id": "analysis-exercises-1",
+              "title": "Exercise Sheet 1 — Solutions",
+              "category": "Exercises",
+              "date": "2022-10-15",
+              "file": "documents/semester-1/analysis-1/test-document.pdf",
+              "description": "Worked solutions and additional explanations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "2. Semester",
+      "courses": []
+    },
+    {
+      "number": 3,
+      "title": "3. Semester",
+      "courses": []
+    },
+    {
+      "number": 4,
+      "title": "4. Semester",
+      "courses": []
+    },
+    {
+      "number": 5,
+      "title": "5. Semester",
+      "courses": []
+    },
+    {
+      "number": 6,
+      "title": "6. Semester",
+      "courses": []
+    }
+  ]
+}
