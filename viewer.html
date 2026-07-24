@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <meta name="robots" content="noindex, nofollow">
+
+  <title>Document Viewer</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-title" href="index.html">
+        Technical Physics Materials
+      </a>
+
+      <nav class="site-navigation" aria-label="Main navigation">
+        <a href="index.html">Materials</a>
+        <a href="about.html">About</a>
+        <a href="terms.html">Copyright</a>
+        <a href="imprint.html">Imprint</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <p>
+      <a id="back-link" href="index.html">← Back to course</a>
+    </p>
+
+    <section class="course-header">
+      <h1 id="document-title">Loading document…</h1>
+
+      <p id="document-description"></p>
+
+      <div class="notice">
+        <strong>Personal study use only.</strong>
+        Downloading, extracting, republishing, selling or redistributing this
+        material is not permitted. Share the course-page link instead.
+      </div>
+    </section>
+
+    <div class="viewer-toolbar" aria-label="Document controls">
+      <button id="zoom-out" class="button button-secondary" type="button">
+        Zoom out
+      </button>
+
+      <span id="zoom-value">100%</span>
+
+      <button id="zoom-in" class="button button-secondary" type="button">
+        Zoom in
+      </button>
+    </div>
+
+    <div
+      id="viewer-container"
+      class="viewer-container"
+      oncontextmenu="return false;"
+    >
+      <p id="viewer-status">Loading PDF…</p>
+      <div id="pdf-pages"></div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      © <span id="current-year"></span> Your Name.
+      See the <a href="terms.html">copyright and permitted-use terms</a>.
+    </p>
+  </footer>
+
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs"
+    type="module"
+  ></script>
+
+  <script src="js/viewer.js" type="module"></script>
+</body>
+</html>
