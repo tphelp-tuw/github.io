@@ -123,7 +123,7 @@ main {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   color: var(--text);
-  text-decoration: none);
+  text-decoration: none;
   transition:
     transform 160ms ease,
     box-shadow 160ms ease,
