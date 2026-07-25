@@ -331,3 +331,29 @@ main {
     padding: 8px;
   }
 }
+
+.feedback-page {
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+.feedback-form {
+  margin-top: 28px;
+  padding: 18px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.feedback-form iframe {
+  display: block;
+  width: 100%;
+  min-height: 420px;
+  border: 0;
+}
+
+.muted-text {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
