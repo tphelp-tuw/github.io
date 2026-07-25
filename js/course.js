@@ -52,7 +52,7 @@ async function loadCoursePage() {
 }
 
 function renderCourseSelection(semester) {
-  document.title = `${semester.title} | Technical Physics Materials`;
+  document.title = `${semester.title} | TPHelp`;
 
   const cards = semester.courses.length > 0
     ? semester.courses.map(course => `
@@ -83,7 +83,7 @@ function renderCourseSelection(semester) {
 }
 
 function renderCourse(semester, course) {
-  document.title = `${course.name} | Technical Physics Materials`;
+  document.title = `${course.name} | TPHelp`;
 
   const documents = course.documents.length > 0
     ? course.documents.map(document => `
