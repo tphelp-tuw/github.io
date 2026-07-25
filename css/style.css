@@ -334,7 +334,7 @@ main {
 
 .feedback-page {
   max-width: 820px;
-  margin: 0 auto;
+  margin: 40px auto;
 }
 
 .feedback-form {
@@ -349,7 +349,7 @@ main {
 .feedback-form iframe {
   display: block;
   width: 100%;
-  min-height: 420px;
+  min-height: 500px;
   border: 0;
 }
 
