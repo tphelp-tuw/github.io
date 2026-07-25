@@ -58,7 +58,7 @@ async function initializeViewer() {
     }
 
     document.title =
-      `${documentData.title} | Technical Physics Materials`;
+      `${documentData.title} | TPHelp`;
 
     documentTitle.textContent = documentData.title;
     documentDescription.textContent =
@@ -130,7 +130,7 @@ async function renderAllPages() {
     const watermark = document.createElement("div");
     watermark.className = "watermark";
     watermark.textContent =
-      "© YOUR NAME · PERSONAL STUDY USE ONLY";
+      "© TPHelp · PERSONAL STUDY USE ONLY";
 
     wrapper.appendChild(canvas);
     wrapper.appendChild(watermark);
