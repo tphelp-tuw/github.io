@@ -9,7 +9,12 @@ if (currentYear) {
 
 async function loadSemesters() {
   try {
-    const response = await fetch("data/courses.json");
+    const response = await fetch(
+      `data/courses.json?v=${Date.now()}`,
+      {
+        cache: "no-store"
+      }
+    );
 
     if (!response.ok) {
       throw new Error(`Could not load course data: ${response.status}`);
