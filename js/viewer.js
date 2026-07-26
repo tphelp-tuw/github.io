@@ -33,7 +33,12 @@ if (currentYear) {
 
 async function initializeViewer() {
   try {
-    const dataResponse = await fetch("data/courses.json");
+    const dataResponse = await fetch(
+  `    data/courses.json?v=${Date.now()}`,
+      {
+      cache: "no-store"
+      }
+    );
 
     if (!dataResponse.ok) {
       throw new Error("Course information could not be loaded.");
