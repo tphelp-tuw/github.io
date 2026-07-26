@@ -250,37 +250,37 @@
         {
           "id": "akt",
           "title": "Atom-, Kern- und Teilchenphysik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "VO: Mario Pitschmann | UE: Stephanie Manz",
+          "term": "2026S",
+          "courseNumber": "142.086 | 142.089",
           "language": "German",
           "documents": []
         },
         {
           "id": "festkörperphysik",
           "title": "Festkörperphysik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
-          "language": "German",
+          "lecturer": "Herwig Michor | Silke Bühler-Paschen | Marta Gibert",
+          "term": "2026S",
+          "courseNumber": "138.017",
+          "language": "German | English",
           "documents": []
         },
         {
           "id": "grundlagen-kernfusionsreaktor",
           "title": "Grundlagen der Kernfusionsreaktoren",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "Matthias Willensdorfer | Elisabeth Wolfrum",
+          "term": "2026S",
+          "courseNumber": "134.750",
           "language": "German",
           "documents": []
         },
         {
           "id": "statistische-physik",
           "title": "Statistische Physik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
-          "language": "German",
+          "lecturer": "Alessandro Toschi | Marcel Stefan Gievers",
+          "term": "2026S",
+          "courseNumber": "136.020",
+          "language": "English | German",
           "documents": []
         }
       ]
