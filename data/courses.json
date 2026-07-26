@@ -14,7 +14,24 @@
           "term": "2023W",
           "courseNumber": "103.057",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "analysis-1-uebungen",
+            "title": "Analysis 1 Übungen",
+            "category": "Exercises",
+            "date": "2023W",
+            "description": "Exercises for Analysis 1.",
+            "file": "documents/semester-1/analysis-1/Analysis 1 Übungen.pdf"
+          },
+          {
+            "id": "analysis-1-altklausuren",
+            "title": "Ausarbeitung Altklausuren Analysis 1",
+            "category": "Past Exams",
+            "date": "2023W",
+            "description": "Worked past exams for Analysis 1.",
+            "file": "documents/semester-1/analysis-1/PASTE-EXACT-FILENAME-HERE.pdf"
+          }
+        ]          
         },
         {
           "id": "grundlagen1",
@@ -25,7 +42,48 @@
           "term": "2023",
           "courseNumber": "130.001 | 130.002",
           "language": "German",
-          "documents": []
+          "documents": [
+            {
+              "id": "gdp-1-altklausuren-1",
+              "title": "Altklausurausarbeitungen GdP 1 Teil 1",
+              "category": "Past Exams",
+              "date": "2023",
+              "description": "Worked past exams for Grundlagen der Physik 1a.",
+              "file": "documents/semester-1/grundlagen1/Altklausurausabreitung GdP 1a Teil1.pdf"
+            },
+            {
+              "id": "gdp-1-altklausuren-2",
+              "title": "Altklausurausarbeitungen GdP 1 Teil 2",
+              "category": "Past Exams",
+              "date": "2023",
+              "description": "Worked past exams for Grundlagen der Physik 1a.",
+              "file": "documents/semester-1/grundlagen1/Altklausurausabreitung GdP 1a Teil2.pdf"
+            },
+            {
+              "id": "gdp-1-altpruefungsfragen",
+              "title": "Altprüfungsfragen Ausarbeitung",
+              "category": "Past Exams",
+              "date": "2023",
+              "description": "Worked past examination questions for Grundlagen der Physik 1b.",
+              "file": "documents/semester-1/grundlagen1/Altprüfungsfragen Ausarbeitung G1b.pdf"
+            },
+            {
+              "id": "gdp-1a-uebungen",
+              "title": "Übungen GdP 1a",
+              "category": "Exercises",
+              "date": "2023",
+              "description": "Exercises for Grundlagen der Physik 1a.",
+              "file": "documents/semester-1/grundlagen1/Übungen GdP 1a.pdf"
+            },
+            {
+              "id": "gdp-1b-uebungen",
+              "title": "Übungen GdP 1b",
+              "category": "Exercises",
+              "date": "2023",
+              "description": "Exercises for Grundlagen der Physik 1b.",
+              "file": "documents/semester-1/grundlagen1/Übungen GdP 1b.pdf"
+            }
+          ]  
         },
         {
           "id": "linag",
@@ -36,7 +94,64 @@
           "term": "2023",
           "courseNumber": "103.066 | 103.064",
           "language": "German",
-          "documents": []
+          "documents": [
+            {
+              "id": "linag-uebungsklausur-1",
+              "title": "1. Übungsklausur Lineare Algebra",
+              "category": "Practice Exam",
+              "date": "2023",
+              "description": "First practice exam for Lineare Algebra.",
+              "file": "documents/semester-1/linag/1. Übungsklausur Lineare Algebra.pdf"
+            },
+            {
+              "id": "linag-uebungsklausur-2",
+              "title": "2. Übungsklausur Lineare Algebra",
+              "category": "Practice Exam",
+              "date": "2023",
+              "description": "Second practice exam for Lineare Algebra.",
+              "file": "documents/semester-1/linag/2. Übungsklausur Lineare Algebra.pdf"
+            },
+            {
+              "id": "linag-uebungen",
+              "title": "LinAg Übungen",
+              "category": "Exercises",
+              "date": "2023",
+              "description": "Exercises for Lineare Algebra.",
+              "file": "documents/semester-1/linag/LinAg Übungen.pdf"
+            },
+            {
+              "id": "linag-moebius-aufgaben-klausur-1",
+              "title": "Möbius Aufgaben LinAg 1. Klausur",
+              "category": "Exercises",
+              "date": "2023",
+              "description": "Möbius exercises for the first Lineare Algebra exam.",
+              "file": "documents/semester-1/linag/Möbius Aufgaben LinAg 1. Klausur.pdf"
+            },
+            {
+              "id": "linag-moebiusbeispiele-klausur-2",
+              "title": "Möbiusbeispiele LinAg 2. Klausur",
+              "category": "Exercises",
+              "date": "2023",
+              "description": "Möbius examples for the second Lineare Algebra exam.",
+              "file": "documents/semester-1/linag/Möbiusbeispiele LinAg 2. Klausur.pdf"
+            },
+            {
+              "id": "linag-probepruefungen-vo",
+              "title": "Probeprüfungen LinAg VO",
+              "category": "Practice Exams",
+              "date": "2023",
+              "description": "Practice examinations for the Lineare Algebra lecture.",
+              "file": "documents/semester-1/linag/Probeprüfungen LinAg VO.pdf"
+            },
+            {
+              "id": "linag-vorlesungsklausur",
+              "title": "Vorlesungsklausur Lineare Algebra",
+              "category": "Past Exam",
+              "date": "2023",
+              "description": "Lecture examination for Lineare Algebra.",
+              "file": "documents/semester-1/linag/Vorlesungsklausur Lineare Algebra.pdf"
+            }
+          ]
         },
         {
           "id": "prama-1",
@@ -47,10 +162,67 @@
           "term": "2023W",
           "courseNumber": "103.089",
           "language": "German",
-          "documents": []
+          "documents": [
+              {
+                "id": "prama-1-klausur-1",
+                "title": "1. Klausur – Praktische Mathematik 1",
+                "category": "Exam",
+                "date": "2023W",
+                "description": "First examination for Praktische Mathematik 1.",
+                "file": "documents/semester-1/prama-1/1. Klausur - Praktische Mathematik 1.pdf"
+              },
+              {
+                "id": "prama-1-klausur-2",
+                "title": "2. Klausur – Praktische Mathematik 1",
+                "category": "Exam",
+                "date": "2023W",
+                "description": "Second examination for Praktische Mathematik 1.",
+                "file": "documents/semester-1/prama-1/2. Klausur - Praktische Mathematik 1.pdf"
+              },
+              {
+                "id": "prama-1-klausur-3",
+                "title": "3. Klausur – Praktische Mathematik 1",
+                "category": "Exam",
+                "date": "2023W",
+                "description": "Third examination for Praktische Mathematik 1.",
+                "file": "documents/semester-1/prama-1/3. Klausur - Praktische Mathematik 1.pdf"
+              },
+              {
+                "id": "prama-1-alt-und-probeklausuren",
+                "title": "Alt- und Probeklausuren PraMa 1",
+                "category": "Past and Practice Exams",
+                "date": "2023W",
+                "description": "Past and practice examinations for the third exam ofPraktische Mathematik 1.",
+                "file": "documents/semester-1/prama-1/Alt- und Probeklausuren PraMa 1 3. Klausur.pdf"
+              },
+              {
+                "id": "prama-1-uebungen",
+                "title": "PraMa 1 Übungen",
+                "category": "Exercises",
+                "date": "2023W",
+                "description": "Exercises for Praktische Mathematik 1.",
+                "file": "documents/semester-1/prama-1/PraMa 1 Übungen.pdf"
+              },
+              {
+                "id": "prama-1-uebungen-klausur-1",
+                "title": "Übungen PraMa 1 – 1. Klausur",
+                "category": "Exercises",
+                "date": "2023W",
+                "description": "Exercises for the first Praktische Mathematik 1 examination.",
+                "file": "documents/semester-1/prama-1/Übungen PraMa 1 1. Klausur.pdf"
+              },
+              {
+                "id": "prama-1-uebungen-klausur-2",
+                "title": "Übungen PraMa 1 – 2. Klausur",
+                "category": "Exercises",
+                "date": "2023W",
+                "description": "Exercises for the second Praktische Mathematik 1 examination.",
+                "file": "documents/semester-1/prama-1/Übungen PraMa 1 2. Klausur.pdf"
+              }
+            ]
         }
       ]
-    },
+    },   
     {
       "number": 2,
       "title": "2nd Semester",
