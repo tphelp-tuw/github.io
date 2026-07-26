@@ -103,45 +103,45 @@
         {
           "id": "anamech",
           "title": "Analytische Mechanik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
-          "language": "German",
+          "lecturer": "Carlos Gonzalez Ballestero | Florian Libisch | Joachim Burgdörfer",
+          "term": "2024W",
+          "courseNumber": "130.009",
+          "language": "German | English",
           "documents": []
         },
         {
           "id": "grundlagen3",
           "title": "Grundlagen der Physik 3",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "VO: Hannes-Jörg Schmiedmayer | UE: Stefan Löffler",
+          "term": "2024W",
+          "courseNumber": "134.120 | 134.125",
           "language": "German",
           "documents": []
         },
         {
           "id": "labor-2",
-          "title": "Physikalisches Labor 2",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "title": "Labor 2",
+          "lecturer": "Herwig Michor",
+          "term": "2024W",
+          "courseNumber": "134.124",
           "language": "German",
           "documents": []
         },
         {
           "id": "mathematische-methoden",
           "title": "Mathematische Methoden",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "Andreas Ipp | Shuhei Yoshida",
+          "term": "2024",
+          "courseNumber": "136.099",
           "language": "German",
           "documents": []
         },
         {
           "id": "techmech",
           "title": "Technische Mechanik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "Jakob Scheidl",
+          "term": "2024W",
+          "courseNumber": "130.007",
           "language": "German",
           "documents": []
         }
