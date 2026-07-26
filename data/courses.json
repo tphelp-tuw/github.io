@@ -197,46 +197,46 @@
       "courses": [
         {
           "id": "backofenvelope",
-          "title": "Back-of-the-Envelope Physics",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
-          "language": "English",
+          "title": "Physics Back of the envelope",
+          "lecturer": "Andrej Pustogow",
+          "term": "2025W",
+          "courseNumber": "138.131",
+          "language": "German",
           "documents": []
         },
         {
           "id": "materialwissenschaften",
           "title": "Materialwissenschaften",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "Chrstoph Eisenmenger-Sittner | Silke Bühler-Paschen | Andrei Pimenov",
+          "term": "2025W",
+          "courseNumber": "138.053",
           "language": "German",
           "documents": []
         },
         {
           "id": "quantenphysik-labor",
-          "title": "Quantenphysik-Labor",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
-          "language": "German",
+          "title": "Quantum Information Schience and Technology Praktikum",
+          "lecturer": "Philipp Haslinger | Thorsten Schumm",
+          "term": "2025W",
+          "courseNumber": "194.205",
+          "language": "English",
           "documents": []
         },
         {
           "id": "quantentheorie1",
-          "title": "Quantentheorie 1",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "title": "Quantentheorie",
+          "lecturer": "Andreas Grüneis",
+          "term": "2025W",
+          "courseNumber": "136.019",
           "language": "German",
           "documents": []
         },
         {
           "id": "radioökologie",
           "title": "Radioökologie",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "Georg Steinhauser",
+          "term": "2025W",
+          "courseNumber": "141.281",
           "language": "German",
           "documents": []
         }
