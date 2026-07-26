@@ -24,8 +24,8 @@ async function loadSemesters() {
 
       const semesterCard = document.createElement("a");
       semesterCard.className = "card";
-       semesterCard.href =
-          `course.html?semester=${encodeURIComponent(semester.id)}`;
+      semesterCard.href =
+        `course.html?semester=${encodeURIComponent(semester.number)}`;
 
       semesterCard.innerHTML = `
         <h2>${escapeHtml(semester.title)}</h2>
