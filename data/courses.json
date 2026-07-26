@@ -155,36 +155,36 @@
         {
           "id": "chemie",
           "title": "Chemie",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "Markus Valtiner",
+          "term": "2025S",
+          "courseNumber": "134.251",
           "language": "German",
           "documents": []
         },
         {
           "id": "edyn",
           "title": "Elektrodynamik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "VO: Herbert Balasin | UE: Felix Hummel",
+          "term": "2025S",
+          "courseNumber": "136.015",
           "language": "German",
           "documents": []
         },
         {
           "id": "labor-3",
-          "title": "Physikalisches Labor 3",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "title": "Labor 3",
+          "lecturer": "Herwig Michor",
+          "term": "2025S",
+          "courseNumber": "134.126",
           "language": "German",
           "documents": []
         },
         {
           "id": "messtechnik",
-          "title": "Messtechnik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "title": "Physikalische Messtechnik",
+          "lecturer": "Thorsten Schumm | Johannes Sterba",
+          "term": "2025S",
+          "courseNumber": "141.A71",
           "language": "German",
           "documents": []
         }
