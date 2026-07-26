@@ -115,12 +115,13 @@ main {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 20px;
 }
 
 .card {
   display: block;
+  min-width: 0;
   padding: 24px;
   background: var(--surface);
   border: 1px solid var(--border);
@@ -144,6 +145,10 @@ main {
 .card h3 {
   margin-top: 0;
   margin-bottom: 8px;
+  font-size: 1.45rem;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+  hyphens: auto;
 }
 
 .card p {
