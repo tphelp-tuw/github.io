@@ -51,45 +51,45 @@
         {
           "id": "analysis-2",
           "title": "Analysis 2",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "VO: Winfried Auzinger | UE: Ewa Weinmüller",
+          "term": "2024S",
+          "courseNumber": "103.087 | 103.091",
           "language": "German",
           "documents": []
         },
         {
           "id": "grundlagen-elektronik",
           "title": "Grundlagen der Elektronik",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "Martin Gröschl | Florian Reindl",
+          "term": "2024S",
+          "courseNumber": "134.163",
           "language": "German",
           "documents": []
         },
         {
           "id": "grundlagen2",
           "title": "Grundlagen der Physik 2",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "lecturer": "2a: Andrej Pustogow | 2b: Andrei Pimenov | UE: Stefan Löfflr",
+          "term": "2024S",
+          "courseNumber": "130.003 | 130.004",
           "language": "German",
           "documents": []
         },
         {
           "id": "labor-1",
-          "title": "Physikalisches Labor 1",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "title": "Labor 1",
+          "lecturer": "Herwig Michor",
+          "term": "2024S",
+          "courseNumber": "138.010",
           "language": "German",
           "documents": []
         },
         {
           "id": "prama-2",
-          "title": "Programmieren und mathematische Algorithmen 2",
-          "lecturer": "",
-          "term": "",
-          "courseNumber": "",
+          "title": "Praktische Mathematik 2",
+          "lecturer": "Andreas Körner | Ewa Weinmüller",
+          "term": "2024S",
+          "courseNumber": "103.058",
           "language": "German",
           "documents": []
         }
