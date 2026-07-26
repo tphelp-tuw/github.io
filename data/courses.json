@@ -1,13 +1,15 @@
 {
   "semesters": [
     {
-      "id": "semester-1",
+      "number": 1,
       "title": "1st Semester",
       "description": "Courses and documents from the first semester.",
       "courses": [
         {
           "id": "analysis-1",
-          "title": "Analysis 1",
+          "name": "Analysis 1",
+          "shortDescription": "Notes and materials for Analysis 1.",
+          "description": "Personal study materials for Analysis 1.",
           "lecturer": "Winfried Auzinger",
           "term": "2023W",
           "courseNumber": "103.057",
@@ -16,7 +18,9 @@
         },
         {
           "id": "grundlagen1",
-          "title": "Grundlagen der Physik 1",
+          "name": "Grundlagen der Physik 1",
+          "shortDescription": "Notes and materials for GdP 1.",
+          "description": "Personal study materials for GdP 1.",
           "lecturer": "1a: Christoph Eisenmenger-Sittner | 1b: Andrey Prokofiev | UE: Stefan Löffler",
           "term": "2023",
           "courseNumber": "130.001 | 130.002",
@@ -25,7 +29,9 @@
         },
         {
           "id": "linag",
-          "title": "Lineare Algebra",
+          "name": "Lineare Algebra",
+          "shortDescription": "Notes and materials for Linag.",
+          "description": "Personal study materials for Linag.",
           "lecturer": "Andreas Körner",
           "term": "2023",
           "courseNumber": "103.066 | 103.064",
@@ -34,7 +40,9 @@
         },
         {
           "id": "prama-1",
-          "title": "Prraktische Mathematik 1",
+          "name": "Prraktische Mathematik 1",
+          "shortDescription": "Notes and materials for PraMa 1.",
+          "description": "Personal study materials for PraMa 1.",
           "lecturer": "Andreas Körner",
           "term": "2023W",
           "courseNumber": "103.089",
@@ -44,7 +52,7 @@
       ]
     },
     {
-      "id": "semester-2",
+      "number": 2,
       "title": "2nd Semester",
       "description": "Courses and documents from the second semester.",
       "courses": [
@@ -96,7 +104,7 @@
       ]
     },
     {
-      "id": "semester-3",
+      "number": 3,
       "title": "3rd Semester",
       "description": "Courses and documents from the third semester.",
       "courses": [
@@ -148,7 +156,7 @@
       ]
     },
     {
-      "id": "semester-4",
+      "number": 4,,
       "title": "4th Semester",
       "description": "Courses and documents from the fourth semester.",
       "courses": [
@@ -191,7 +199,7 @@
       ]
     },
     {
-      "id": "semester-5",
+      "number": 5,
       "title": "5th Semester",
       "description": "Courses and documents from the fifth semester.",
       "courses": [
@@ -243,7 +251,7 @@
       ]
     },
     {
-      "id": "semester-6",
+      "number": 6,
       "title": "6th Semester",
       "description": "Courses and documents from the sixth semester.",
       "courses": [
