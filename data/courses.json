@@ -19,8 +19,8 @@
         {
           "id": "grundlagen1",
           "name": "Grundlagen der Physik 1",
-          "shortDescription": "Notes and materials for GdP 1.",
-          "description": "Personal study materials for GdP 1.",
+          "shortDescription": "Notes and materials for Grundlagen der Physik 1.",
+          "description": "Personal study materials for Grundlagen der Physik 1.",
           "lecturer": "1a: Christoph Eisenmenger-Sittner | 1b: Andrey Prokofiev | UE: Stefan Löffler",
           "term": "2023",
           "courseNumber": "130.001 | 130.002",
@@ -30,8 +30,8 @@
         {
           "id": "linag",
           "name": "Lineare Algebra",
-          "shortDescription": "Notes and materials for Linag.",
-          "description": "Personal study materials for Linag.",
+          "shortDescription": "Notes and materials for Lineare Algebra.",
+          "description": "Personal study materials for Lineare Algeba.",
           "lecturer": "Andreas Körner",
           "term": "2023",
           "courseNumber": "103.066 | 103.064",
@@ -41,8 +41,8 @@
         {
           "id": "prama-1",
           "name": "Prraktische Mathematik 1",
-          "shortDescription": "Notes and materials for PraMa 1.",
-          "description": "Personal study materials for PraMa 1.",
+          "shortDescription": "Notes and materials for Praktische Mathematik 1.",
+          "description": "Personal study materials for Praktische Mathematik 1.",
           "lecturer": "Andreas Körner",
           "term": "2023W",
           "courseNumber": "103.089",
@@ -58,7 +58,9 @@
       "courses": [
         {
           "id": "analysis-2",
-          "title": "Analysis 2",
+          "name": "Analysis 2",
+          "shortDescription": "Notes and materials for Analysis 2.",
+          "description": "Personal study materials for Analysis 2.",
           "lecturer": "VO: Winfried Auzinger | UE: Ewa Weinmüller",
           "term": "2024S",
           "courseNumber": "103.087 | 103.091",
@@ -67,7 +69,9 @@
         },
         {
           "id": "grundlagen-elektronik",
-          "title": "Grundlagen der Elektronik",
+          "name": "Grundlagen der Elektronik",
+          "shortDescription": "Notes and materials for Grundlagen der Elektronik.",
+          "description": "Personal study materials for Grundlagen der Elektronik.",
           "lecturer": "Martin Gröschl | Florian Reindl",
           "term": "2024S",
           "courseNumber": "134.163",
@@ -76,7 +80,9 @@
         },
         {
           "id": "grundlagen2",
-          "title": "Grundlagen der Physik 2",
+          "name": "Grundlagen der Physik 2",
+          "shortDescription": "Notes and materials for Grundlagen der Physik 2.",
+          "description": "Personal study materials for Grundlagen der Physik 2.",
           "lecturer": "2a: Andrej Pustogow | 2b: Andrei Pimenov | UE: Stefan Löfflr",
           "term": "2024S",
           "courseNumber": "130.003 | 130.004",
@@ -85,7 +91,9 @@
         },
         {
           "id": "labor-1",
-          "title": "Labor 1",
+          "name": "Labor 1",
+          "shortDescription": "Notes and materials for Labor 1.",
+          "description": "Personal study materials for Labor 1.",
           "lecturer": "Herwig Michor",
           "term": "2024S",
           "courseNumber": "138.010",
@@ -94,7 +102,9 @@
         },
         {
           "id": "prama-2",
-          "title": "Praktische Mathematik 2",
+          "name": "Praktische Mathematik 2",
+          "shortDescription": "Notes and materials for Praktische Mathematik 2.",
+          "description": "Personal study materials for Praktische Mathematik 2.",
           "lecturer": "Andreas Körner | Ewa Weinmüller",
           "term": "2024S",
           "courseNumber": "103.058",
@@ -110,7 +120,9 @@
       "courses": [
         {
           "id": "anamech",
-          "title": "Analytische Mechanik",
+          "name": "Analytische Mechanik",
+          "shortDescription": "Notes and materials for Analytische Mechanik.",
+          "description": "Personal study materials for Analytische Mechanik.",
           "lecturer": "Carlos Gonzalez Ballestero | Florian Libisch | Joachim Burgdörfer",
           "term": "2024W",
           "courseNumber": "130.009",
@@ -119,7 +131,9 @@
         },
         {
           "id": "grundlagen3",
-          "title": "Grundlagen der Physik 3",
+          "name": "Grundlagen der Physik 3",
+          "shortDescription": "Notes and materials for Grundlagen der Physik 3.",
+          "description": "Personal study materials for Grundlagen der Physik 3.",
           "lecturer": "VO: Hannes-Jörg Schmiedmayer | UE: Stefan Löffler",
           "term": "2024W",
           "courseNumber": "134.120 | 134.125",
@@ -128,7 +142,9 @@
         },
         {
           "id": "labor-2",
-          "title": "Labor 2",
+          "name": "Labor 2",
+          "shortDescription": "Notes and materials for Labor 2.",
+          "description": "Personal study materials for Labor 2.",
           "lecturer": "Herwig Michor",
           "term": "2024W",
           "courseNumber": "134.124",
@@ -137,7 +153,9 @@
         },
         {
           "id": "mathematische-methoden",
-          "title": "Mathematische Methoden",
+          "name": "Mathematische Methoden",
+          "shortDescription": "Notes and materials for Mathematische Methoden.",
+          "description": "Personal study materials for Mathematische Methoden.",
           "lecturer": "Andreas Ipp | Shuhei Yoshida",
           "term": "2024",
           "courseNumber": "136.099",
@@ -146,7 +164,9 @@
         },
         {
           "id": "techmech",
-          "title": "Technische Mechanik",
+          "name": "Technische Mechanik",
+          "shortDescription": "Notes and materials for Technische Mechanik.",
+          "description": "Personal study materials for Technische Mechanik.",
           "lecturer": "Jakob Scheidl",
           "term": "2024W",
           "courseNumber": "130.007",
@@ -156,13 +176,15 @@
       ]
     },
     {
-      "number": 4,,
+      "number": 4,
       "title": "4th Semester",
       "description": "Courses and documents from the fourth semester.",
       "courses": [
         {
           "id": "chemie",
-          "title": "Chemie",
+          "name": "Chemie",
+          "shortDescription": "Notes and materials for Chemie.",
+          "description": "Personal study materials for Chemie.",
           "lecturer": "Markus Valtiner",
           "term": "2025S",
           "courseNumber": "134.251",
@@ -171,7 +193,9 @@
         },
         {
           "id": "edyn",
-          "title": "Elektrodynamik",
+          "name": "Elektrodynamik",
+          "shortDescription": "Notes and materials for Elektrodynamik.",
+          "description": "Personal study materials for Elektrodynamik.",
           "lecturer": "VO: Herbert Balasin | UE: Felix Hummel",
           "term": "2025S",
           "courseNumber": "136.015",
@@ -180,7 +204,9 @@
         },
         {
           "id": "labor-3",
-          "title": "Labor 3",
+          "name": "Labor 3",
+          "shortDescription": "Notes and materials for Labor 3.",
+          "description": "Personal study materials for Labor 3.",
           "lecturer": "Herwig Michor",
           "term": "2025S",
           "courseNumber": "134.126",
@@ -189,7 +215,9 @@
         },
         {
           "id": "messtechnik",
-          "title": "Physikalische Messtechnik",
+          "name": "Physikalische Messtechnik",
+          "shortDescription": "Notes and materials for Physikalische Messtechnik.",
+          "description": "Personal study materials for Physikalische Messtechnik.",
           "lecturer": "Thorsten Schumm | Johannes Sterba",
           "term": "2025S",
           "courseNumber": "141.A71",
@@ -205,7 +233,9 @@
       "courses": [
         {
           "id": "backofenvelope",
-          "title": "Physics Back of the envelope",
+          "name": "Physics Back of the envelope",
+          "shortDescription": "Notes and materials for Physics Back of the envelope.",
+          "description": "Personal study materials for Physics Back of the envelope.",
           "lecturer": "Andrej Pustogow",
           "term": "2025W",
           "courseNumber": "138.131",
@@ -214,7 +244,9 @@
         },
         {
           "id": "materialwissenschaften",
-          "title": "Materialwissenschaften",
+          "name": "Materialwissenschaften",
+          "shortDescription": "Notes and materials for Materialwissenschaften.",
+          "description": "Personal study materials for Materialwissenschaften.",
           "lecturer": "Chrstoph Eisenmenger-Sittner | Silke Bühler-Paschen | Andrei Pimenov",
           "term": "2025W",
           "courseNumber": "138.053",
@@ -223,7 +255,9 @@
         },
         {
           "id": "quantenphysik-labor",
-          "title": "Quantum Information Schience and Technology Praktikum",
+          "name": "Quantum Information Schience and Technology Praktikum",
+          "shortDescription": "Notes and materials for Quantum Information Schience and Technology Praktikum.",
+          "description": "Personal study materials for Quantum Information Schience and Technology Praktikum.",
           "lecturer": "Philipp Haslinger | Thorsten Schumm",
           "term": "2025W",
           "courseNumber": "194.205",
@@ -232,7 +266,9 @@
         },
         {
           "id": "quantentheorie1",
-          "title": "Quantentheorie",
+          "name": "Quantentheorie",
+          "shortDescription": "Notes and materials for Quantentheorie.",
+          "description": "Personal study materials for Quantentheorie.",
           "lecturer": "Andreas Grüneis",
           "term": "2025W",
           "courseNumber": "136.019",
@@ -241,7 +277,9 @@
         },
         {
           "id": "radioökologie",
-          "title": "Radioökologie",
+          "name": "Radioökologie",
+          "shortDescription": "Notes and materials for Radioökologie.",
+          "description": "Personal study materials for Radioökologie.",
           "lecturer": "Georg Steinhauser",
           "term": "2025W",
           "courseNumber": "141.281",
@@ -257,7 +295,9 @@
       "courses": [
         {
           "id": "akt",
-          "title": "Atom-, Kern- und Teilchenphysik",
+          "name": "Atom-, Kern- und Teilchenphysik",
+          "shortDescription": "Notes and materials for Atom-, Kern- und Teilchenphysik.",
+          "description": "Personal study materials for Atom-, Kern- und Teilchenphysik.",
           "lecturer": "VO: Mario Pitschmann | UE: Stephanie Manz",
           "term": "2026S",
           "courseNumber": "142.086 | 142.089",
@@ -266,7 +306,9 @@
         },
         {
           "id": "festkörperphysik",
-          "title": "Festkörperphysik",
+          "name": "Festkörperphysik",
+          "shortDescription": "Notes and materials for Festkörperphysik.",
+          "description": "Personal study materials for Festkörperphysik.",
           "lecturer": "Herwig Michor | Silke Bühler-Paschen | Marta Gibert",
           "term": "2026S",
           "courseNumber": "138.017",
@@ -275,7 +317,9 @@
         },
         {
           "id": "grundlagen-kernfusionsreaktor",
-          "title": "Grundlagen der Kernfusionsreaktoren",
+          "name": "Grundlagen der Kernfusionsreaktoren",
+          "shortDescription": "Notes and materials for Grundlagen der Kernfusionsreaktoren.",
+          "description": "Personal study materials for Grundlagen der Kernfusionsreaktoren.",
           "lecturer": "Matthias Willensdorfer | Elisabeth Wolfrum",
           "term": "2026S",
           "courseNumber": "134.750",
@@ -284,7 +328,9 @@
         },
         {
           "id": "statistische-physik",
-          "title": "Statistische Physik",
+          "name": "Statistische Physik",
+          "shortDescription": "Notes and materials for Statistische Physik.",
+          "description": "Personal study materials for Statistische Physik.",
           "lecturer": "Alessandro Toschi | Marcel Stefan Gievers",
           "term": "2026S",
           "courseNumber": "136.020",
