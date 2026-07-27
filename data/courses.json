@@ -49,7 +49,7 @@
               "category": "Past Exams",
               "date": "2023",
               "description": "Worked past exams for Grundlagen der Physik 1a.",
-              "file": "documents/semester-1/grundlagen1/Altklausurausabreitung GdP 1a Teil1.pdf"
+              "file": "documents/semester-1/grundlagen1/Altklausurausabreitung-GdP-1a-Teil1.pdf"
             },
             {
               "id": "gdp-1-altklausuren-2",
@@ -57,7 +57,7 @@
               "category": "Past Exams",
               "date": "2023",
               "description": "Worked past exams for Grundlagen der Physik 1a.",
-              "file": "documents/semester-1/grundlagen1/Altklausurausabreitung GdP 1a Teil2.pdf"
+              "file": "documents/semester-1/grundlagen1/Altklausurausabreitung-GdP-1a-Teil2.pdf"
             },
             {
               "id": "gdp-1-altpruefungsfragen",
@@ -65,7 +65,7 @@
               "category": "Past Exams",
               "date": "2023",
               "description": "Worked past examination questions for Grundlagen der Physik 1b.",
-              "file": "documents/semester-1/grundlagen1/Altprüfungsfragen Ausarbeitung G1b.pdf"
+              "file": "documents/semester-1/grundlagen1/Altprüfungsfragen-Ausarbeitung-G1b.pdf"
             },
             {
               "id": "gdp-1a-uebungen",
@@ -73,7 +73,7 @@
               "category": "Exercises",
               "date": "2023",
               "description": "Exercises for Grundlagen der Physik 1a.",
-              "file": "documents/semester-1/grundlagen1/Übungen GdP 1a.pdf"
+              "file": "documents/semester-1/grundlagen1/Übungen-GdP-1a.pdf"
             },
             {
               "id": "gdp-1b-uebungen",
@@ -81,7 +81,7 @@
               "category": "Exercises",
               "date": "2023",
               "description": "Exercises for Grundlagen der Physik 1b.",
-              "file": "documents/semester-1/grundlagen1/Übungen GdP 1b.pdf"
+              "file": "documents/semester-1/grundlagen1/Übungen-GdP-1b.pdf"
             }
           ]  
         },
