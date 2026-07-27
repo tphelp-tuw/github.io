@@ -94,7 +94,10 @@ main {
 }
 
 .hero {
-  max-width: 760px;
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(280px, 1fr);
+  gap: 40px;
+  align-items: start;
   margin-bottom: 48px;
 }
 
@@ -107,6 +110,29 @@ main {
 .hero p {
   color: var(--muted);
   font-size: 1.1rem;
+}
+
+.hero-content {
+  min-width: 0;
+}
+
+.donation-card {
+  padding: 24px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.donation-card h2 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.donation-card p {
+  margin-bottom: 18px;
+  color: var(--muted);
+  font-size: 1rem;
 }
 
 .section-heading {
@@ -327,6 +353,12 @@ main {
     align-items: flex-start;
     flex-direction: column;
   }
+
+@media (max-width: 900px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+}
 
   main {
     padding-top: 36px;
