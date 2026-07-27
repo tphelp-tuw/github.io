@@ -24,7 +24,7 @@ const courseId = parameters.get("course");
 const documentId = parameters.get("document");
 
 let pdfDocument = null;
-let scale = 1.25;
+let scale = window.innerWidth <= 768 ? 0.5 : 1.25;;
 let renderGeneration = 0;
 
 if (currentYear) {
@@ -34,7 +34,7 @@ if (currentYear) {
 async function initializeViewer() {
   try {
     const dataResponse = await fetch(
-  `    data/courses.json?v=${Date.now()}`,
+      `data/courses.json?v=${Date.now()}`,
       {
       cache: "no-store"
       }
@@ -102,7 +102,7 @@ async function renderAllPages() {
   viewerStatus.textContent =
     `Rendering ${pdfDocument.numPages} pages…`;
 
-  zoomValue.textContent = `${Math.round(scale * 80)}%`;
+  zoomValue.textContent = `${Math.round(scale * 100)}%`;
 
   for (
     let pageNumber = 1;
