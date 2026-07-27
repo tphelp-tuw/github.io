@@ -73,7 +73,7 @@
               "category": "Exercises",
               "date": "2023",
               "description": "Exercises for Grundlagen der Physik 1a.",
-              "file": "documents/semester-1/grundlagen-1/Übungen-GdP-1a.pdf"
+              "file": "documents/semester-1/grundlagen-1/Uebungen-GdP-1a.pdf"
             },
             {
               "id": "gdp-1b-uebungen",
@@ -81,7 +81,7 @@
               "category": "Exercises",
               "date": "2023",
               "description": "Exercises for Grundlagen der Physik 1b.",
-              "file": "documents/semester-1/grundlagen-1/Übungen-GdP-1b.pdf"
+              "file": "documents/semester-1/grundlagen-1/Uebungen-GdP-1b.pdf"
             }
           ]  
         },
@@ -101,7 +101,7 @@
               "category": "Practice Exam",
               "date": "2023",
               "description": "First practice exam for Lineare Algebra.",
-              "file": "documents/semester-1/linag/1.-Übungsklausur-Lineare-Algebra.pdf"
+              "file": "documents/semester-1/linag/1.-Uebungsklausur-Lineare-Algebra.pdf"
             },
             {
               "id": "linag-uebungsklausur-2",
@@ -109,7 +109,7 @@
               "category": "Practice Exam",
               "date": "2023",
               "description": "Second practice exam for Lineare Algebra.",
-              "file": "documents/semester-1/linag/2.-Übungsklausur-Lineare-Algebra.pdf"
+              "file": "documents/semester-1/linag/2.-Uebungsklausur-Lineare-Algebra.pdf"
             },
             {
               "id": "linag-uebungen",
