@@ -149,7 +149,7 @@
               "category": "Past Exam",
               "date": "2023",
               "description": "Lecture examination for Lineare Algebra.",
-              "file": "documents/semester-1/linag/Vorlesungsklausur Lineare Algebra.pdf"
+              "file": "documents/semester-1/linag/Vorlesungsklausur-Lineare-Algebra.pdf"
             }
           ]
         },
@@ -169,7 +169,7 @@
                 "category": "Exam",
                 "date": "2023W",
                 "description": "First examination for Praktische Mathematik 1.",
-                "file": "documents/semester-1/prama-1/1. Klausur - Praktische Mathematik 1.pdf"
+                "file": "documents/semester-1/prama-1/1.Klausur-Praktische-Mathematik-1.pdf"
               },
               {
                 "id": "prama-1-klausur-2",
@@ -177,7 +177,7 @@
                 "category": "Exam",
                 "date": "2023W",
                 "description": "Second examination for Praktische Mathematik 1.",
-                "file": "documents/semester-1/prama-1/2. Klausur - Praktische Mathematik 1.pdf"
+                "file": "documents/semester-1/prama-1/2.-Klausur-Praktische-Mathematik-1.pdf"
               },
               {
                 "id": "prama-1-klausur-3",
@@ -185,7 +185,7 @@
                 "category": "Exam",
                 "date": "2023W",
                 "description": "Third examination for Praktische Mathematik 1.",
-                "file": "documents/semester-1/prama-1/3. Klausur - Praktische Mathematik 1.pdf"
+                "file": "documents/semester-1/prama-1/3.Klausur-Praktische-Mathematik-1.pdf"
               },
               {
                 "id": "prama-1-alt-und-probeklausuren",
@@ -193,7 +193,7 @@
                 "category": "Past and Practice Exams",
                 "date": "2023W",
                 "description": "Past and practice examinations for the third exam ofPraktische Mathematik 1.",
-                "file": "documents/semester-1/prama-1/Alt- und Probeklausuren PraMa 1 3. Klausur.pdf"
+                "file": "documents/semester-1/prama-1/Alt-und-Probeklausuren-PraMa-1-3.-Klausur.pdf"
               },
               {
                 "id": "prama-1-uebungen",
@@ -201,7 +201,7 @@
                 "category": "Exercises",
                 "date": "2023W",
                 "description": "Exercises for Praktische Mathematik 1.",
-                "file": "documents/semester-1/prama-1/PraMa 1 Übungen.pdf"
+                "file": "documents/semester-1/prama-1/PraMa-1-Übungen.pdf"
               },
               {
                 "id": "prama-1-uebungen-klausur-1",
@@ -209,7 +209,7 @@
                 "category": "Exercises",
                 "date": "2023W",
                 "description": "Exercises for the first Praktische Mathematik 1 examination.",
-                "file": "documents/semester-1/prama-1/Übungen PraMa 1 1. Klausur.pdf"
+                "file": "documents/semester-1/prama-1/Übungen-PraMa-1-1.-Klausur.pdf"
               },
               {
                 "id": "prama-1-uebungen-klausur-2",
@@ -217,7 +217,7 @@
                 "category": "Exercises",
                 "date": "2023W",
                 "description": "Exercises for the second Praktische Mathematik 1 examination.",
-                "file": "documents/semester-1/prama-1/Übungen PraMa 1 2. Klausur.pdf"
+                "file": "documents/semester-1/prama-1/Übungen-PraMa-1-2.-Klausur.pdf"
               }
             ]
         }
