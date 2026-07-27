@@ -201,7 +201,7 @@
                 "category": "Exercises",
                 "date": "2023W",
                 "description": "Exercises for Praktische Mathematik 1.",
-                "file": "documents/semester-1/prama-1/PraMa-1-Übungen.pdf"
+                "file": "documents/semester-1/prama-1/PraMa-1-Uebungen.pdf"
               },
               {
                 "id": "prama-1-uebungen-klausur-1",
@@ -209,7 +209,7 @@
                 "category": "Exercises",
                 "date": "2023W",
                 "description": "Exercises for the first Praktische Mathematik 1 examination.",
-                "file": "documents/semester-1/prama-1/Übungen-PraMa-1-1.-Klausur.pdf"
+                "file": "documents/semester-1/prama-1/Uebungen-PraMa-1-1.-Klausur.pdf"
               },
               {
                 "id": "prama-1-uebungen-klausur-2",
@@ -217,7 +217,7 @@
                 "category": "Exercises",
                 "date": "2023W",
                 "description": "Exercises for the second Praktische Mathematik 1 examination.",
-                "file": "documents/semester-1/prama-1/Übungen-PraMa-1-2.-Klausur.pdf"
+                "file": "documents/semester-1/prama-1/Uebungen-PraMa-1-2.-Klausur.pdf"
               }
             ]
         }
