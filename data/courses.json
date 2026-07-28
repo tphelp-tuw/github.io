@@ -237,7 +237,32 @@
           "term": "2024S",
           "courseNumber": "103.087 | 103.091",
           "language": "German",
-          "documents": []
+           "documents": [
+              {
+                "id": "analysis-2-altklausuren",
+                "title": "Analysis II Altklausuren",
+                "category": "Past Exams",
+                "date": "2024S",
+                "description": "Collection of past exams for Analysis 2.",
+                "file": "documents/semester-2/analysis-2/Analysis-II-Altklausuren.pdf"
+              },
+              {
+                "id": "analysis-2-ausarbeitung-1",
+                "title": "Ausarbeitung Altklausuren Analysis II VO Teil 1",
+                "category": "Past Exams",
+                "date": "2024S",
+                "description": "Worked past exams for Analysis 2.",
+                "file": "documents/semester-2/analysis-2/Ausarbeitung-Altklausuren-Analysis-II-VO-Teil1.pdf"
+              },
+              {
+                "id": "analysis-2-ausarbeitung-2",
+                "title": "Ausarbeitung Altklausuren Analysis II VO Teil 2",
+                "category": "Past Exams",
+                "date": "2024S",
+                "description": "Worked past exams for Analysis 2.",
+                "file": "documents/semester-2/analysis-2/Ausarbeitung-Altklausuren-Analysis-II-VO-Teil2.pdf"
+              }
+            ]
         },
         {
           "id": "grundlagen-elektronik",
@@ -248,7 +273,40 @@
           "term": "2024S",
           "courseNumber": "134.163",
           "language": "German",
-          "documents": []
+            "documents": [
+            {
+              "id": "elektronik-a",
+              "title": "Übungen Grundlagen Elektronik A",
+              "category": "Exercises",
+              "date": "2024S",
+              "description": "Exercise sheet A.",
+              "file": "documents/semester-2/grundlagen-elektronik/Uebungen-Grundlagen-Elektronik-A.pdf"
+            },
+            {
+              "id": "elektronik-b",
+              "title": "Übungen Grundlagen Elektronik B",
+              "category": "Exercises",
+              "date": "2024S",
+              "description": "Exercise sheet B.",
+              "file": "documents/semester-2/grundlagen-elektronik/Uebungen-Grundlagen-Elektronik-B.pdf"
+            },
+            {
+              "id": "elektronik-c",
+              "title": "Übungen Grundlagen Elektronik C",
+              "category": "Exercises",
+              "date": "2024S",
+              "description": "Exercise sheet C.",
+              "file": "documents/semester-2/grundlagen-elektronik/Uebungen-Grundlagen-Elektronik-C.pdf"
+            },
+            {
+              "id": "elektronik-d",
+              "title": "Übungen Grundlagen Elektronik D",
+              "category": "Exercises",
+              "date": "2024S",
+              "description": "Exercise sheet D.",
+              "file": "documents/semester-2/grundlagen-elektronik/Uebungen-Grundlagen-Elektronik-D.pdf"
+            },
+          ]
         },
         {
           "id": "grundlagen2",
@@ -259,18 +317,64 @@
           "term": "2024S",
           "courseNumber": "130.003 | 130.004",
           "language": "German",
-          "documents": []
-        },
-        {
-          "id": "labor-1",
-          "name": "Labor 1",
-          "shortDescription": "Notes and materials for Labor 1.",
-          "description": "Personal study materials for Labor 1.",
-          "lecturer": "Herwig Michor",
-          "term": "2024S",
-          "courseNumber": "138.010",
-          "language": "German",
-          "documents": []
+           "documents": [
+            {
+              "id": "gdp2a-teil1",
+              "title": "Altfragen GdP 2a Teil 1",
+              "category": "Past Exams",
+              "date": "2024S",
+              "description": "Past examination questions.",
+              "file": "documents/semester-2/grundlagen2/Altfragen-GdP-2a-Teil1.pdf"
+            },
+            {
+              "id": "gdp2a-teil2",
+              "title": "Altfragen GdP 2a Teil 2",
+              "category": "Past Exams",
+              "date": "2024S",
+              "description": "Past examination questions.",
+              "file": "documents/semester-2/grundlagen2/Altfragen-GdP-2a-Teil2.pdf"
+            },
+            {
+              "id": "gdp2a-teil3",
+              "title": "Altfragen GdP 2a Teil 3",
+              "category": "Past Exams",
+              "date": "2024S",
+              "description": "Past examination questions.",
+              "file": "documents/semester-2/grundlagen2/Altfragen-GdP-2a-Teil3.pdf"
+            },
+            {
+              "id": "gdp2b-teil1",
+              "title": "Altfragen GdP 2b Teil 1",
+              "category": "Past Exams",
+              "date": "2024S",
+              "description": "Past examination questions.",
+              "file": "documents/semester-2/grundlagen2/Altfragen-GdP-2b-Teil1.pdf"
+            },
+            {
+              "id": "gdp2b-teil2",
+              "title": "Altfragen GdP 2b Teil 2",
+              "category": "Past Exams",
+              "date": "2024S",
+              "description": "Past examination questions.",
+              "file": "documents/semester-2/grundlagen2/Altfragen-GdP-2b-Teil2.pdf"
+            },
+            {
+              "id": "gdp2a-uebungen",
+              "title": "Übungen GdP 2a",
+              "category": "Exercises",
+              "date": "2024S",
+              "description": "Exercises for GdP 2a.",
+              "file": "documents/semester-2/grundlagen2/Uebungen-GdP-2a.pdf"
+            },
+            {
+              "id": "gdp2b-uebungen",
+              "title": "Übungen GdP 2b",
+              "category": "Exercises",
+              "date": "2024S",
+              "description": "Exercises for GdP 2b.",
+              "file": "documents/semester-2/grundlagen2/Uebungen-GdP-2b.pdf"
+            }
+          ]
         },
         {
           "id": "prama-2",
@@ -281,9 +385,40 @@
           "term": "2024S",
           "courseNumber": "103.058",
           "language": "German",
-          "documents": []
-        }
-      ]
+           "documents": [
+            {
+              "id": "prama2-klausur1",
+              "title": "1. Klausur Praktische Mathematik 2",
+              "category": "Exam",
+              "date": "2024S",
+              "description": "First examination.",
+              "file": "documents/semester-2/prama-2/1.-Klausur-Praktische-Mathematik-2.pdf"
+            },
+            {
+              "id": "prama2-klausur2",
+              "title": "2. Klausur Praktische Mathematik 2",
+              "category": "Exam",
+              "date": "2024S",
+              "description": "Second examination.",
+              "file": "documents/semester-2/prama-2/2.-Klausur-Praktische-Mathematik-2.pdf"
+            },
+            {
+              "id": "prama2-altklausuren1",
+              "title": "Altklausuren PMII 1. Test",
+              "category": "Past Exams",
+              "date": "2024S",
+              "description": "Past exams.",
+              "file": "documents/semester-2/prama-2/Altklausuren-PMII-1.-Test.pdf"
+            },
+            {
+              "id": "prama2-altklausuren2",
+              "title": "Altklausuren PMII 2. Test",
+              "category": "Past Exams",
+              "date": "2024S",
+              "description": "Past exams.",
+              "file": "documents/semester-2/prama-2/Altklausuren-PMII-2.-Test.pdf"
+            }
+          ]
     },
     {
       "number": 3,
