@@ -679,17 +679,6 @@
       "description": "Courses and documents from the fourth semester.",
       "courses": [
         {
-          "id": "chemie",
-          "name": "Chemie",
-          "shortDescription": "Notes and materials for Chemie.",
-          "description": "Personal study materials for Chemie.",
-          "lecturer": "Markus Valtiner",
-          "term": "2025S",
-          "courseNumber": "134.251",
-          "language": "German",
-          "documents": []
-        },
-        {
           "id": "edyn",
           "name": "Elektrodynamik",
           "shortDescription": "Notes and materials for Elektrodynamik.",
@@ -698,7 +687,24 @@
           "term": "2025S",
           "courseNumber": "136.015",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "edyn-uebungen-t1",
+            "title": "Übungen Elektrodynamik T1",
+            "category": "Exercises",
+            "date": "2025S",
+            "description": "Exercises for Elektrodynamik.",
+            "file": "documents/semester-4/edyn/Uebungen-Edyn-T1.pdf"
+          },
+          {
+            "id": "edyn-uebungen-t2",
+            "title": "Übungen Elektrodynamik T2",
+            "category": "Exercises",
+            "date": "2025S",
+            "description": "Exercises for Elektrodynamik.",
+            "file": "documents/semester-4/edyn/Uebungen-Edyn-T2.pdf"
+          }
+        ]    
         },
         {
           "id": "labor-3",
@@ -709,7 +715,72 @@
           "term": "2025S",
           "courseNumber": "134.126",
           "language": "German",
-          "documents": []
+          ""documents": [
+          {
+            "id": "labor3-esr",
+            "title": "Laborprotokoll ESR",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-ESR.pdf"
+          },
+          {
+            "id": "labor3-franck-hertz",
+            "title": "Laborprotokoll Franck-Hertz",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-Franck-Hertz.pdf"
+          },
+          {
+            "id": "labor3-gammaspektroskopie",
+            "title": "Laborprotokoll Gammaspektroskopie",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-Gammaspektroskopie.pdf"
+          },
+          {
+            "id": "labor3-holographie",
+            "title": "Laborprotokoll Holographie",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-Holographie.pdf"
+          },
+          {
+            "id": "labor3-plasmadiagnostik",
+            "title": "Laborprotokoll Plasmadiagnostik",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-Plasmadiagnostik.pdf"
+          },
+          {
+            "id": "labor3-roentgenphysik",
+            "title": "Laborprotokoll Röntgenphysik",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-Roentgenphysik.pdf"
+          },
+          {
+            "id": "labor3-waermepumpe",
+            "title": "Laborprotokoll Wärmepumpe",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-Waermepumpe.pdf"
+          },
+          {
+            "id": "labor3-spezifische-waerme",
+            "title": "Laborprotokoll Spezifische Wärme",
+            "category": "Lab Report",
+            "date": "2025S",
+            "description": "Laboratory report.",
+            "file": "documents/semester-4/labor-3/Laborprotokoll-spezifische-Waerme.pdf"
+          }
+        ]
         },
         {
           "id": "messtechnik",
@@ -720,7 +791,16 @@
           "term": "2025S",
           "courseNumber": "141.A71",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "messtechnik-uebungen",
+            "title": "Messtechnik Übungen",
+            "category": "Exercises",
+            "date": "2025S",
+            "description": "Exercises for Messtechnik.",
+            "file": "documents/semester-4/messtechnik/Messtechnik-Uebungen.pdf"
+          }
+        ]   
         }
       ]
     },
