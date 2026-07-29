@@ -1,20 +1,20 @@
 {
   "donors": [
     {
-      "name": "Goat1",
-      "amount": 80
+      "name": "",
+      "amount":
     },
     {
-      "name": "Goat2",
-      "amount": 10
+      "name": "",
+      "amount":
     },
     {
-      "name": "Goat3",
-      "amount": 40
+      "name": "",
+      "amount": 
     },
     {
-      "name": "Goat4",
-      "amount": 10
+      "name": "",
+      "amount": 
     }
   ]
 }
