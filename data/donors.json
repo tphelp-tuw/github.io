@@ -1,1 +1,16 @@
-
+{
+  "donors": [
+    {
+      "name": "Anna",
+      "amount": 25
+    },
+    {
+      "name": "Max",
+      "amount": 10
+    },
+    {
+      "name": "PhysicsFan",
+      "amount": 40
+    }
+  ]
+}
