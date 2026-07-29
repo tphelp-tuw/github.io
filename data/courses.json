@@ -436,7 +436,32 @@
           "term": "2024W",
           "courseNumber": "130.009",
           "language": "German | English",
-          "documents": []
+          "documents": [
+          {
+            "id": "anamech-altklausuren",
+            "title": "Altklausuren Analytische Mechanik",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Collection of past exams for Analytische Mechanik.",
+            "file": "documents/semester-3/anamech/Altklausuren-AnaMech.pdf"
+          },
+          {
+            "id": "anamech-uebungen-1",
+            "title": "Übungen Analytische Mechanik Teil 1",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercises for Analytische Mechanik.",
+            "file": "documents/semester-3/anamech/Uebungen-AnaMech-Teil1.pdf"
+          },
+          {
+            "id": "anamech-uebungen-2",
+            "title": "Übungen Analytische Mechanik Teil 2",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercises for Analytische Mechanik.",
+            "file": "documents/semester-3/anamech/Uebungen-AnaMech-Teil2.pdf"
+          }
+        ]   
         },
         {
           "id": "grundlagen3",
@@ -447,7 +472,88 @@
           "term": "2024W",
           "courseNumber": "134.120 | 134.125",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "gdp3-fragenkatalog-1",
+            "title": "Fragenkatalog Ausarbeitung GdP III T1",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Worked question catalogue.",
+            "file": "documents/semester-3/grundlagen3/Fragenkatalog-Ausarbeitung-GIII-T1.pdf"
+          },
+          {
+            "id": "gdp3-fragenkatalog-2",
+            "title": "Fragenkatalog Ausarbeitung GdP III T2",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Worked question catalogue.",
+            "file": "documents/semester-3/grundlagen3/Fragenkatalog-Ausarbeitung-GIII-T2.pdf"
+          },
+          {
+            "id": "gdp3-fragenkatalog-3",
+            "title": "Fragenkatalog Ausarbeitung GdP III T3",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Worked question catalogue.",
+            "file": "documents/semester-3/grundlagen3/Fragenkatalog-Ausarbeitung-GIII-T3.pdf"
+          },
+          {
+            "id": "gdp3-fragenkatalog-4",
+            "title": "Fragenkatalog Ausarbeitung GdP III T4",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Worked question catalogue.",
+            "file": "documents/semester-3/grundlagen3/Fragenkatalog-Ausarbeitung-GIII-T4.pdf"
+          },
+          {
+            "id": "gdp3-fragenkatalog-5",
+            "title": "Fragenkatalog Ausarbeitung GdP III T5",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Worked question catalogue.",
+            "file": "documents/semester-3/grundlagen3/Fragenkatalog-Ausarbeitung-GIII-T5.pdf"
+          },
+          {
+            "id": "gdp3-uebungen-t1",
+            "title": "Übungen GdP 3 T1",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercises for GdP 3.",
+            "file": "documents/semester-3/grundlagen3/Uebungen-GdP-3-T1.pdf"
+          },
+          {
+            "id": "gdp3-uebungen-t2",
+            "title": "Übungen GdP 3 T2",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercises for GdP 3.",
+            "file": "documents/semester-3/grundlagen3/Uebungen-GdP-3-T2.pdf"
+          },
+          {
+            "id": "gdp3-uebungen-t3",
+            "title": "Übungen GdP 3 T3",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercises for GdP 3.",
+            "file": "documents/semester-3/grundlagen3/Uebungen-GdP-3-T3.pdf"
+          },
+          {
+            "id": "gdp3-uebungen-t4",
+            "title": "Übungen GdP 3 T4",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercises for GdP 3.",
+            "file": "documents/semester-3/grundlagen3/Uebungen-GdP-3-T4.pdf"
+          },
+          {
+            "id": "gdp3-uebungen-t5",
+            "title": "Übungen GdP 3 T5",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercises for GdP 3.",
+            "file": "documents/semester-3/grundlagen3/Uebungen-GdP-3-T5.pdf"
+          }
+        ]  
         },
         {
           "id": "labor-2",
@@ -458,7 +564,48 @@
           "term": "2024W",
           "courseNumber": "134.124",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "labor2-akustik",
+            "title": "Laborprotokoll Akustik",
+            "category": "Lab Report",
+            "date": "2024W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-3/labor-2/Laborprotokoll-Akustik.pdf"
+          },
+          {
+            "id": "labor2-drehpendel",
+            "title": "Laborprotokoll Drehpendel",
+            "category": "Lab Report",
+            "date": "2024W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-3/labor-2/Laborprotokoll-Drehpendel.pdf"
+          },
+          {
+            "id": "labor2-emfeld",
+            "title": "Laborprotokoll Elektronen im EM-Feld",
+            "category": "Lab Report",
+            "date": "2024W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-3/labor-2/Laborprotokoll-Elektronen-im-EM-Feld.pdf"
+          },
+          {
+            "id": "labor2-kritische-daten",
+            "title": "Laborprotokoll Kritische Daten",
+            "category": "Lab Report",
+            "date": "2024W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-3/labor-2/Laborprotokoll-Kritische-Daten.pdf"
+          },
+          {
+            "id": "labor2-leitungen",
+            "title": "Laborprotokoll Leitungen",
+            "category": "Lab Report",
+            "date": "2024W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-3/labor-2/Laborprotokoll-Leitungen.pdf"
+          }
+        ]  
         },
         {
           "id": "mathematische-methoden",
@@ -469,7 +616,32 @@
           "term": "2024",
           "courseNumber": "136.099",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "mm-altklausuren-test1",
+            "title": "Altklausuren MM Test 1",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Past exams.",
+            "file": "documents/semester-3/mathematische-methoden/Altklausuren-MM-Test1.pdf"
+          },
+          {
+            "id": "mm-altklausuren-test2",
+            "title": "Altklausuren MM Test 2",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Past exams.",
+            "file": "documents/semester-3/mathematische-methoden/Altklausuren-MM-Test2.pdf"
+          },
+          {
+            "id": "mm-uebungen",
+            "title": "Mathematische Methoden Übungen",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Exercise collection.",
+            "file": "documents/semester-3/mathematische-methoden/Mathematische-Methoden-Uebungen.pdf"
+          }
+        ]
         },
         {
           "id": "techmech",
@@ -480,7 +652,24 @@
           "term": "2024W",
           "courseNumber": "130.007",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "techmech-altpruefungen",
+            "title": "Altprüfungen Technische Mechanik",
+            "category": "Past Exams",
+            "date": "2024W",
+            "description": "Collection of past exams.",
+            "file": "documents/semester-3/techmech/Altpruefungen-TechMech.pdf"
+          },
+          {
+            "id": "techmech-hausuebungen",
+            "title": "Hausübungen Technische Mechanik",
+            "category": "Exercises",
+            "date": "2024W",
+            "description": "Homework exercises.",
+            "file": "documents/semester-3/techmech/Hausuebungen-TechMech.pdf"
+          }
+        ]    
         }
       ]
     },
