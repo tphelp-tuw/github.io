@@ -47,7 +47,7 @@
               "id": "gdp-1-altklausuren-1",
               "title": "Altklausurausarbeitungen GdP 1 Teil 1",
               "category": "Past Exams",
-              "date": "2023",
+              "date": "2023W",
               "description": "Worked past exams for Grundlagen der Physik 1a.",
               "file": "documents/semester-1/grundlagen-1/Altklausurausarbeitungen-GdP-1a-Teil1.pdf"
             },
@@ -55,7 +55,7 @@
               "id": "gdp-1-altklausuren-2",
               "title": "Altklausurausarbeitungen GdP 1 Teil 2",
               "category": "Past Exams",
-              "date": "2023",
+              "date": "2023W",
               "description": "Worked past exams for Grundlagen der Physik 1a.",
               "file": "documents/semester-1/grundlagen-1/Altklausurausarbeitungen-GdP-1a-Teil2.pdf"
             },
@@ -63,7 +63,7 @@
               "id": "gdp-1-altpruefungsfragen",
               "title": "Altprüfungsfragen Ausarbeitung",
               "category": "Past Exams",
-              "date": "2023",
+              "date": "2023W",
               "description": "Worked past examination questions for Grundlagen der Physik 1b.",
               "file": "documents/semester-1/grundlagen-1/Altpruefungsfragen-Ausarbeitung-G1b.pdf"
             },
@@ -71,7 +71,7 @@
               "id": "gdp-1a-uebungen",
               "title": "Übungen GdP 1a",
               "category": "Exercises",
-              "date": "2023",
+              "date": "2023W",
               "description": "Exercises for Grundlagen der Physik 1a.",
               "file": "documents/semester-1/grundlagen-1/Uebungen-GdP-1a.pdf"
             },
@@ -79,7 +79,7 @@
               "id": "gdp-1b-uebungen",
               "title": "Übungen GdP 1b",
               "category": "Exercises",
-              "date": "2023",
+              "date": "2023W",
               "description": "Exercises for Grundlagen der Physik 1b.",
               "file": "documents/semester-1/grundlagen-1/Uebungen-GdP-1b.pdf"
             }
@@ -91,7 +91,7 @@
           "shortDescription": "Notes and materials for Lineare Algebra.",
           "description": "Personal study materials for Lineare Algeba.",
           "lecturer": "Andreas Körner",
-          "term": "2023",
+          "term": "2023W",
           "courseNumber": "103.066 | 103.064",
           "language": "German",
           "documents": [
@@ -99,7 +99,7 @@
               "id": "linag-uebungsklausur-1",
               "title": "1. Übungsklausur Lineare Algebra",
               "category": "Practice Exam",
-              "date": "2023",
+              "date": "2023W",
               "description": "First practice exam for Lineare Algebra.",
               "file": "documents/semester-1/linag/1.-Uebungsklausur-Lineare-Algebra.pdf"
             },
@@ -107,7 +107,7 @@
               "id": "linag-uebungsklausur-2",
               "title": "2. Übungsklausur Lineare Algebra",
               "category": "Practice Exam",
-              "date": "2023",
+              "date": "2023W",
               "description": "Second practice exam for Lineare Algebra.",
               "file": "documents/semester-1/linag/2.-Uebungsklausur-Lineare-Algebra.pdf"
             },
@@ -115,7 +115,7 @@
               "id": "linag-uebungen",
               "title": "LinAg Übungen",
               "category": "Exercises",
-              "date": "2023",
+              "date": "2023W",
               "description": "Exercises for Lineare Algebra.",
               "file": "documents/semester-1/linag/LinAg-Uebungen.pdf"
             },
@@ -123,7 +123,7 @@
               "id": "linag-moebius-aufgaben-klausur-1",
               "title": "Möbius Aufgaben LinAg 1. Klausur",
               "category": "Exercises",
-              "date": "2023",
+              "date": "2023W",
               "description": "Möbius exercises for the first Lineare Algebra exam.",
               "file": "documents/semester-1/linag/Möbius-Aufgaben-LinAg-1.-Klausur.pdf"
             },
@@ -131,7 +131,7 @@
               "id": "linag-moebiusbeispiele-klausur-2",
               "title": "Möbiusbeispiele LinAg 2. Klausur",
               "category": "Exercises",
-              "date": "2023",
+              "date": "2023W",
               "description": "Möbius examples for the second Lineare Algebra exam.",
               "file": "documents/semester-1/linag/Möbiusbeispiele-LinAg-2.-Klausur.pdf"
             },
@@ -139,7 +139,7 @@
               "id": "linag-probepruefungen-vo",
               "title": "Probeprüfungen LinAg VO",
               "category": "Practice Exams",
-              "date": "2023",
+              "date": "2023W",
               "description": "Practice examinations for the Lineare Algebra lecture.",
               "file": "documents/semester-1/linag/Probeprüfungen-LinAg-VO.pdf"
             },
@@ -147,7 +147,7 @@
               "id": "linag-vorlesungsklausur",
               "title": "Vorlesungsklausur Lineare Algebra",
               "category": "Past Exam",
-              "date": "2023",
+              "date": "2023W",
               "description": "Lecture examination for Lineare Algebra.",
               "file": "documents/semester-1/linag/Vorlesungsklausur-Lineare-Algebra.pdf"
             }
