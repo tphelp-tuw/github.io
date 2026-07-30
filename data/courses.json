@@ -965,7 +965,40 @@
           "term": "2026S",
           "courseNumber": "142.086 | 142.089",
           "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "akt-vo-notes-t1",
+            "title": "AKT 1 VO Notes T1",
+            "category": "Lecture Notes",
+            "date": "2026S",
+            "description": "Lecture notes for AKT 1.",
+            "file": "documents/semester-6/akt/AKT-1-VO-notes-T1.pdf"
+          },
+          {
+            "id": "akt-vo-notes-t2",
+            "title": "AKT 1 VO Notes T2",
+            "category": "Lecture Notes",
+            "date": "2026S",
+            "description": "Lecture notes for AKT 1.",
+            "file": "documents/semester-6/akt/AKT-1-VO-notes-T2.pdf"
+          },
+          {
+            "id": "akt-uebungen-t1",
+            "title": "AKT Übungen T1",
+            "category": "Exercises",
+            "date": "2026S",
+            "description": "Exercises for AKT.",
+            "file": "documents/semester-6/akt/AKT-Uebungen-T1.pdf"
+          },
+          {
+            "id": "akt-uebungen-t2",
+            "title": "AKT Übungen T2",
+            "category": "Exercises",
+            "date": "2026S",
+            "description": "Exercises for AKT.",
+            "file": "documents/semester-6/akt/AKT-Uebungen-T2.pdf"
+          }
+        ]    
         },
         {
           "id": "festkörperphysik",
@@ -976,18 +1009,80 @@
           "term": "2026S",
           "courseNumber": "138.017",
           "language": "German | English",
-          "documents": []
-        },
-        {
-          "id": "grundlagen-kernfusionsreaktor",
-          "name": "Grundlagen der Kernfusionsreaktoren",
-          "shortDescription": "Notes and materials for Grundlagen der Kernfusionsreaktoren.",
-          "description": "Personal study materials for Grundlagen der Kernfusionsreaktoren.",
-          "lecturer": "Matthias Willensdorfer | Elisabeth Wolfrum",
-          "term": "2026S",
-          "courseNumber": "134.750",
-          "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "festkoerper-alttest-t1",
+            "title": "Alttest Zusammenfassung T1",
+            "category": "Past Exams",
+            "date": "2026S",
+            "description": "Summary of past tests.",
+            "file": "documents/semester-6/festkoerperphysik/Alttest-Zusammenfassung-T1.pdf"
+          },
+          {
+            "id": "festkoerper-alttest-t2",
+            "title": "Alttest Zusammenfassung T2",
+            "category": "Past Exams",
+            "date": "2026S",
+            "description": "Summary of past tests.",
+            "file": "documents/semester-6/festkoerperphysik/Alttest-Zusammenfassung-T2.pdf"
+          },
+          {
+            "id": "festkoerper-gilbert",
+            "title": "Festkörperphysik Gilbert",
+            "category": "Lecture Notes",
+            "date": "2026S",
+            "description": "Lecture notes.",
+            "file": "documents/semester-6/festkoerperphysik/Festkoerperphysik-Gilbert-Teil.pdf"
+          },
+          {
+            "id": "festkoerper-michor-1",
+            "title": "Festkörperphysik Michor Teil 1",
+            "category": "Lecture Notes",
+            "date": "2026S",
+            "description": "Lecture notes.",
+            "file": "documents/semester-6/festkoerperphysik/Festkoerperphysik_Michor_Teil1.pdf"
+          },
+          {
+            "id": "festkoerper-michor-2",
+            "title": "Festkörperphysik Michor Teil 2",
+            "category": "Lecture Notes",
+            "date": "2026S",
+            "description": "Lecture notes.",
+            "file": "documents/semester-6/festkoerperphysik/Festkoerperphysik_Michor_Teil2.pdf"
+          },
+          {
+            "id": "festkoerper-paschen-1",
+            "title": "Festkörperphysik Paschen Teil 1",
+            "category": "Lecture Notes",
+            "date": "2026S",
+            "description": "Lecture notes.",
+            "file": "documents/semester-6/festkoerperphysik/Festkoerperphysik_Paschen_Teil1.pdf"
+          },
+          {
+            "id": "festkoerper-paschen-2",
+            "title": "Festkörperphysik Paschen Teil 2",
+            "category": "Lecture Notes",
+            "date": "2026S",
+            "description": "Lecture notes.",
+            "file": "documents/semester-6/festkoerperphysik/Festkoerperphysik_Paschen_Teil2.pdf"
+          },
+          {
+            "id": "festkoerper-muendlich-fragen",
+            "title": "Mündliche Fragen Festkörperphysik",
+            "category": "Oral Exam",
+            "date": "2026S",
+            "description": "Collection of oral exam questions.",
+            "file": "documents/semester-6/festkoerperphysik/muendliche-Fragen-Festkoerperphysik.pdf"
+          },
+          {
+            "id": "festkoerper-michor-fragen",
+            "title": "Mündliche Fragen Michor ausgearbeitet",
+            "category": "Oral Exam",
+            "date": "2026S",
+            "description": "Worked oral exam questions.",
+            "file": "documents/semester-6/festkoerperphysik/muendliche-Fragen-Michor-ausgearbeitet.pdf"
+          }
+        ] 
         },
         {
           "id": "statistische-physik",
@@ -998,7 +1093,24 @@
           "term": "2026S",
           "courseNumber": "136.020",
           "language": "English | German",
-          "documents": []
+          "documents": [
+          {
+            "id": "statphys-uebungen-t1",
+            "title": "Übungen Statistische Physik T1",
+            "category": "Exercises",
+            "date": "2026S",
+            "description": "Exercises for Statistische Physik.",
+            "file": "documents/semester-6/statistische-physik/Uebungen-StatPhys-T1.pdf"
+          },
+          {
+            "id": "statphys-uebungen-t2",
+            "title": "Übungen Statistische Physik T2",
+            "category": "Exercises",
+            "date": "2026S",
+            "description": "Exercises for Statistische Physik.",
+            "file": "documents/semester-6/statistische-physik/Uebungen-StatPhys-T2.pdf"
+          }
+        ]
         }
       ]
     }
