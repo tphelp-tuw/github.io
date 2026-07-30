@@ -833,7 +833,7 @@
             "category": "Solutions",
             "date": "2025W",
             "description": "Back-of-the-envelope calculation.",
-            "file": "documents/semester-5/backofenvelope/Boeing-747-8.pdf"
+            "file": "documents/semester-5/backofenevelope/Boeing-747-8.pdf"
           },
           {
             "id": "boe-neutronenstern",
@@ -841,7 +841,7 @@
             "category": "Solutions",
             "date": "2025W",
             "description": "Back-of-the-envelope calculation.",
-            "file": "documents/semester-5/backofenvelope/Neutronenstern.pdf"
+            "file": "documents/semester-5/backofenevelope/Neutronenstern.pdf"
           }
         ]
         },
