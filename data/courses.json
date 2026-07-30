@@ -897,7 +897,7 @@
           },
           {
             "id": "quantlab-rb",
-            "title": "Rb Protokoll",
+            "title": "Rb",
             "category": "Lab Report",
             "date": "2025W",
             "description": "Laboratory report.",
@@ -905,7 +905,7 @@
           },
           {
             "id": "quantlab-doubleslit",
-            "title": "Quantenpraktikum Double Slit",
+            "title": "Double Slit",
             "category": "Lab Report",
             "date": "2025W",
             "description": "Laboratory report.",
