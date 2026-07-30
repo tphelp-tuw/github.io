@@ -1072,7 +1072,7 @@
             "category": "Oral Exam",
             "date": "2026S",
             "description": "Collection of oral exam questions.",
-            "file": "documents/semester-6/festkoerperphysik/muendliche-Fragen-Festkoerperphysik.pdf"
+            "file": "documents/semester-6/festkoerperphysik/mündliche-Fragen-Festkoerperphysik.pdf"
           },
           {
             "id": "festkoerper-michor-fragen",
@@ -1080,7 +1080,7 @@
             "category": "Oral Exam",
             "date": "2026S",
             "description": "Worked oral exam questions.",
-            "file": "documents/semester-6/festkoerperphysik/muendliche-Fragen-Michor-ausgearbeitet.pdf"
+            "file": "documents/semester-6/festkoerperphysik/mündliche-Fragen-Michor-ausgearbeitet.pdf"
           }
         ] 
         },
