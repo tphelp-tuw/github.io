@@ -826,18 +826,24 @@
           "term": "2025W",
           "courseNumber": "138.131",
           "language": "German",
-          "documents": []
-        },
-        {
-          "id": "materialwissenschaften",
-          "name": "Materialwissenschaften",
-          "shortDescription": "Notes and materials for Materialwissenschaften.",
-          "description": "Personal study materials for Materialwissenschaften.",
-          "lecturer": "Chrstoph Eisenmenger-Sittner | Silke Bühler-Paschen | Andrei Pimenov",
-          "term": "2025W",
-          "courseNumber": "138.053",
-          "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "boe-boeing747",
+            "title": "Boeing 747-8",
+            "category": "Solutions",
+            "date": "2025W",
+            "description": "Back-of-the-envelope calculation.",
+            "file": "documents/semester-5/backofenvelope/Boeing-747-8.pdf"
+          },
+          {
+            "id": "boe-neutronenstern",
+            "title": "Neutronenstern",
+            "category": "Solutions",
+            "date": "2025W",
+            "description": "Back-of-the-envelope calculation.",
+            "file": "documents/semester-5/backofenvelope/Neutronenstern.pdf"
+          }
+        ]
         },
         {
           "id": "quantenphysik-labor",
@@ -848,7 +854,64 @@
           "term": "2025W",
           "courseNumber": "194.205",
           "language": "English",
-          "documents": []
+          "documents": [
+          {
+            "id": "quantlab-bell",
+            "title": "Bell",
+            "category": "Lab Report",
+            "date": "2025W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-5/quantenphysik-labor/QuantLab-Bell.pdf"
+          },
+          {
+            "id": "quantlab-hene",
+            "title": "HeNe",
+            "category": "Lab Report",
+            "date": "2025W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-5/quantenphysik-labor/QuantLab-HeNe.pdf"
+          },
+          {
+            "id": "quantlab-nmr",
+            "title": "NMR Report",
+            "category": "Lab Report",
+            "date": "2025W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-5/quantenphysik-labor/QuantLab-NMR-Report.pdf"
+          },
+          {
+            "id": "quantlab-nv",
+            "title": "NV",
+            "category": "Lab Report",
+            "date": "2025W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-5/quantenphysik-labor/QuantLab-NV.pdf"
+          },
+          {
+            "id": "quantlab-neutrons",
+            "title": "Neutrons",
+            "category": "Lab Report",
+            "date": "2025W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-5/quantenphysik-labor/QuantLab-Neutrons.pdf"
+          },
+          {
+            "id": "quantlab-rb",
+            "title": "Rb Protokoll",
+            "category": "Lab Report",
+            "date": "2025W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-5/quantenphysik-labor/QuantLab-Rb-Protokoll.pdf"
+          },
+          {
+            "id": "quantlab-doubleslit",
+            "title": "Quantenpraktikum Double Slit",
+            "category": "Lab Report",
+            "date": "2025W",
+            "description": "Laboratory report.",
+            "file": "documents/semester-5/quantenphysik-labor/Quantenpraktikum-DoubleSlit.pdf"
+          }
+        ] 
         },
         {
           "id": "quantentheorie1",
@@ -859,18 +922,32 @@
           "term": "2025W",
           "courseNumber": "136.019",
           "language": "German",
-          "documents": []
-        },
-        {
-          "id": "radioökologie",
-          "name": "Radioökologie",
-          "shortDescription": "Notes and materials for Radioökologie.",
-          "description": "Personal study materials for Radioökologie.",
-          "lecturer": "Georg Steinhauser",
-          "term": "2025W",
-          "courseNumber": "141.281",
-          "language": "German",
-          "documents": []
+          "documents": [
+          {
+            "id": "qt1-uebung-t1",
+            "title": "Übung Quantentheorie T1",
+            "category": "Exercises",
+            "date": "2025W",
+            "description": "Exercises for Quantentheorie 1.",
+            "file": "documents/semester-5/quantentheorie1/Uebung-Quantentheorie-T1.pdf"
+          },
+          {
+            "id": "qt1-uebung-t2",
+            "title": "Übung Quantentheorie T2",
+            "category": "Exercises",
+            "date": "2025W",
+            "description": "Exercises for Quantentheorie 1.",
+            "file": "documents/semester-5/quantentheorie1/Uebung-Quantentheorie-T2.pdf"
+          },
+          {
+            "id": "qt1-uebung-t3",
+            "title": "Übung Quantentheorie T3",
+            "category": "Exercises",
+            "date": "2025W",
+            "description": "Exercises for Quantentheorie 1.",
+            "file": "documents/semester-5/quantentheorie1/Uebung-Quantentheorie-T3.pdf"
+          }
+        ]
         }
       ]
     },
