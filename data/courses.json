@@ -983,6 +983,14 @@
             "file": "documents/semester-6/akt/AKT-1-VO-notes-T2.pdf"
           },
           {
+          "id": "akt-altfragen-ausgearbeitet",
+          "title": "AKT Altfragen ausgearbeitet",
+          "category": "Past Exams",
+          "date": "2026S",
+          "description": "Worked past examination questions for AKT.",
+          "file": "documents/semester-6/akt/AKT-Altfragen-ausgeabreitet.pdf"
+          },
+          {
             "id": "akt-uebungen-t1",
             "title": "AKT Übungen T1",
             "category": "Exercises",
