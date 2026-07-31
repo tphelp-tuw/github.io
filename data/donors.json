@@ -1,8 +1,12 @@
 {
   "donors": [
     {
-      "name": "",
-      "amount": 
+      "name": "Higgs",
+      "amount": 5
+    },
+    {
+      "name": "Nico Machat",
+      "amount": 3
     }
   ]
 }
